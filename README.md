@@ -8,6 +8,7 @@ Rack42 is a project by [42 Berlin SynthLab](https://discord.gg/Nnb8dGzZ). The ai
 
 - Four modules have been built so far (marked below as COMPLETE)
 - Eight modules are currently in progress, with PCBs and components ordered
+- We are working from open source schematics provided by Hagiwo, Erica Synths and others
 - See below for links to the separate repos for each project, which contain KiCad project files and code for the digital modules
 - The 8-Bit Waves and KS-20 are private repos as we didn't want to publish PCB design files for modules which small developers are selling commercially as kits
 - We are using an old 90HP case for development and all modules already have laser cut faceplates, to easily see where the project is heading (see photo above)
