@@ -1,6 +1,6 @@
 # The plan
 
-Rack42 is a project by [42 Berlin SynthLab](https://discord.gg/Nnb8dGzZ). The aim is to interactively exhibit a modular synthesiser system on the ground floor of the campus of 42 Berlin(https://42berlin.de/). The end goal is two 42HP systems, each with a separate headphone amp, so that two people can jam/play together. We are currently working on this project weekly during our Wednesday evening SynthLab Sessions at [FabLabNK](https://maps.app.goo.gl/UQUkKKDwy35rFFZc6)
+Rack42 is a project by [42 Berlin SynthLab](https://discord.gg/Nnb8dGzZ). The aim is to interactively exhibit a modular synthesiser system on the ground floor of the campus of [42 Berlin](https://42berlin.de/). The end goal is two 42HP systems, each with a separate headphone amp, so that two people can jam/play together. We are currently working on this project weekly during our Wednesday evening SynthLab Sessions at [FabLabNK](https://maps.app.goo.gl/UQUkKKDwy35rFFZc6)
 
 ![Rack42](-5873068027673691654_121.jpg)
 
